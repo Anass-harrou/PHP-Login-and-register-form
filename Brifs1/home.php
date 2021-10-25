@@ -27,7 +27,7 @@
 <body>
     <nav>
         <div class="logo">
-            <img src="images/logo.png" alt="logo">
+            <img src="images/images.png" alt="logo">
         </div>
         <a href="logout.php">logout ?</a>
     </nav>
